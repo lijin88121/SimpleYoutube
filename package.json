@@ -1,0 +1,22 @@
+{
+  "name": "simple-youtube",
+  "version": "0.1.0",
+  "description": "Easily search for videos using the YouTube API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicholaspsmith/SimpleYoutube.git"
+  },
+  "keywords": [
+    "youtube"
+  ],
+  "author": "Nicholas P Smith <me@nicholaspsmith.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholaspsmith/SimpleYoutube/issues"
+  },
+  "homepage": "https://github.com/nicholaspsmith/SimpleYoutube#readme"
+}
