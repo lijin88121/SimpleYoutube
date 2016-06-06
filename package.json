@@ -1,6 +1,6 @@
 {
   "name": "simple-youtube",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily search for videos using the YouTube API",
   "main": "index.js",
   "scripts": {
